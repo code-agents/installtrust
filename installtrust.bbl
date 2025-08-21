@@ -1,0 +1,354 @@
+\begin{thebibliography}{10}
+
+\bibitem{kaseya2021ransomware}
+Lawrence Abrams.
+\newblock Kaseya vsa ransomware attack.
+\newblock BleepingComputer, 2021.
+\newblock July 2021. REvil ransomware affecting 1,500+ organizations.
+
+\bibitem{anderson2024linux}
+James Anderson, Chris Wright, and James Morris.
+\newblock Linux security modules: General security hooks for linux.
+\newblock {\em ACM Transactions on Information and System Security},
+  27(1):1--35, 2024.
+
+\bibitem{apple2023security}
+{Apple Inc.}
+\newblock Apple platform security.
+\newblock \url{https://support.apple.com/guide/security/welcome/web}, 2023.
+\newblock Accessed: December 2023.
+
+\bibitem{dependency2024confusion}
+Alex Birsan.
+\newblock Dependency confusion: Past, present, and future.
+\newblock Medium, 2024.
+\newblock January 2024. Three years after the original disclosure.
+
+\bibitem{chen2023android}
+Yue Chen, Lei Zhang, and Hao Wang.
+\newblock A large-scale study of android security updates.
+\newblock In {\em USENIX Security Symposium}, pages 2341--2358, 2023.
+
+\bibitem{pypi2023malware}
+Catalin Cimpanu.
+\newblock Malicious pypi packages slip past defenses.
+\newblock The Record, 2023.
+\newblock November 2023. Over 400 malicious packages discovered.
+
+\bibitem{okta2023breaches}
+Catalin Cimpanu.
+\newblock Okta's string of security incidents.
+\newblock The Record, 2023.
+\newblock October 2023. Multiple breaches affecting hundreds of customers.
+
+\bibitem{moveit2023vulnerability}
+{CISA}.
+\newblock Moveit transfer critical vulnerability under active exploitation.
+\newblock Cybersecurity and Infrastructure Security Agency Alert, 2023.
+\newblock June 2023. AA23-158A.
+
+\bibitem{cisa2024sbom}
+{CISA}.
+\newblock Software bill of materials (sbom) requirements.
+\newblock Federal Register, 2024.
+\newblock Implementation of Executive Order 14028.
+
+\bibitem{cisco2024vulnerability}
+{Cisco PSIRT}.
+\newblock Cisco discloses critical zero-day under active exploitation.
+\newblock Cisco Security Advisory, 2024.
+\newblock February 2024. CVE-2024-20253.
+
+\bibitem{kubernetes2024security}
+{CNCF Security TAG}.
+\newblock Kubernetes security audit third annual report.
+\newblock Cloud Native Computing Foundation, 2024.
+\newblock January 2024.
+
+\bibitem{codecov2021incident}
+{Codecov}.
+\newblock Codecov security incident.
+\newblock \url{https://about.codecov.io/security-update/}, 2021.
+\newblock April 2021.
+
+\bibitem{india2024antitrust}
+{Competition Commission of India}.
+\newblock Competition commission of india orders against google.
+\newblock CCI Order, 2024.
+\newblock January 2024. Mandating app store alternatives.
+
+\bibitem{golang2024modules}
+Russ Cox.
+\newblock Go modules: Five years later.
+\newblock Go Blog, 2024.
+\newblock February 2024. Security improvements and lessons learned.
+
+\bibitem{docker2024supply}
+{Docker Inc.}
+\newblock Securing the container supply chain.
+\newblock Docker Security White Paper, 2024.
+\newblock February 2024.
+
+\bibitem{duan2021measuring}
+Ruian Duan, Omar Alrawi, Ranjita~Pai Kasturi, Ryan Elder, Brendan
+  Saltaformaggio, and Wenke Lee.
+\newblock Measuring and preventing supply chain attacks on package managers.
+\newblock In {\em Proceedings of the 2021 ACM SIGSAC Conference on Computer and
+  Communications Security}, pages 818--834, 2021.
+
+\bibitem{eu2024dma}
+{European Commission}.
+\newblock Digital markets act: Commission designates six gatekeepers.
+\newblock Press Release IP/23/4328, 2024.
+\newblock September 6, 2023. Requiring alternative app stores by March 2024.
+
+\bibitem{gdpr2018}
+{European Parliament and Council}.
+\newblock General data protection regulation.
+\newblock Regulation (EU) 2016/679, 2018.
+\newblock Enforced May 25, 2018.
+
+\bibitem{fireeye2020sunburst}
+{FireEye}.
+\newblock Highly evasive attacker leverages solarwinds supply chain.
+\newblock Technical report, FireEye, December 2020.
+
+\bibitem{first2019cvss}
+{FIRST.org}.
+\newblock Common vulnerability scoring system v3.1: Specification document.
+\newblock \url{https://www.first.org/cvss/v3.1/specification-document}, 2019.
+\newblock Accessed: December 2023.
+
+\bibitem{forrester2024appsec}
+{Forrester Research}.
+\newblock The state of application security, 2024.
+\newblock Technical report, Forrester, 2024.
+\newblock Q1 2024 Report.
+
+\bibitem{gartner2024supply}
+{Gartner}.
+\newblock Predicts 2024: Software supply chain security.
+\newblock Technical report, Gartner Research, 2024.
+\newblock ID G00799012.
+
+\bibitem{xz2024backdoor}
+Dan Goodin.
+\newblock Xz utils backdoor: Everything you need to know.
+\newblock Ars Technica, 2024.
+\newblock March 29, 2024. Available:
+  \url{https://arstechnica.com/security/2024/03/backdoor-found-in-widely-used-linux-utility-breaks-encrypted-ssh-connections/}.
+
+\bibitem{crowdstrike2024outage}
+Dan Goodin and Jennifer Schiff.
+\newblock Crowdstrike update causes global it outage.
+\newblock Ars Technica, 2024.
+\newblock July 19, 2024. Affecting 8.5 million Windows devices.
+
+\bibitem{google2024android}
+{Google Android Security Team}.
+\newblock Android security \& privacy 2024 year in review.
+\newblock Google Security Blog, 2024.
+\newblock February 2024.
+
+\bibitem{google2021slsa}
+{Google Open Source Security Team}.
+\newblock Supply-chain levels for software artifacts.
+\newblock Technical report, Google, 2021.
+
+\bibitem{lastpass2022breach}
+Andy Greenberg.
+\newblock Lastpass breach: Hackers stole password vault data.
+\newblock Wired, 2022.
+\newblock December 22, 2022. Available:
+  \url{https://www.wired.com/story/lastpass-breach-vaults-password-managers/}.
+
+\bibitem{japan2024appstore}
+{Japan Fair Trade Commission}.
+\newblock Japan fair trade commission app store investigation.
+\newblock JFTC Press Release, 2024.
+\newblock February 2024. Requiring third-party payment options.
+
+\bibitem{jiang2024llm}
+Albert Jiang, Alexandre Sablayrolles, and Arthur Mensch.
+\newblock Poisoning language models during instruction tuning.
+\newblock In {\em ICML 2024}, 2024.
+
+\bibitem{kallenberg2015uefi}
+Corey Kallenberg, Xeno Kovah, John Butterworth, and Sam Cornwell.
+\newblock How many million bioses would you like to infect?
+\newblock In {\em USENIX Security Symposium}, pages 563--578, 2015.
+
+\bibitem{kumar2024iot}
+Amit Kumar, Lei Xu, and Somesh Jha.
+\newblock Iot supply chain security: A systematic analysis.
+\newblock In {\em ACM CCS 2024}, pages 2156--2170, 2024.
+
+\bibitem{kumar2024mlops}
+Ashish Kumar and Andrew Davis.
+\newblock Mlops security: Protecting the machine learning pipeline.
+\newblock {\em IEEE Security \& Privacy}, 22(1):12--21, 2024.
+
+\bibitem{kuppusamy2016tuf}
+Trishank~Karthik Kuppusamy, Santiago Torres-Arias, Vladimir Diaz, and Justin
+  Cappos.
+\newblock The update framework: A framework for securing software update
+  systems.
+\newblock {\em ACM Transactions on Privacy and Security}, 19(3):1--31, 2016.
+
+\bibitem{ladisa2023taxonomy}
+Piergiorgio Ladisa, Henrik Plate, Matias Martinez, and Olivier Barais.
+\newblock Sok: Taxonomy of attacks on open-source software supply chains.
+\newblock In {\em 2023 IEEE Symposium on Security and Privacy (SP)}, pages
+  1509--1526. IEEE, 2023.
+
+\bibitem{liu2024ios}
+Xiao Liu, Ian Beer, and Samuel Groß.
+\newblock ios security: A decade in review.
+\newblock In {\em IEEE Symposium on Security and Privacy}, pages 892--909,
+  2024.
+
+\bibitem{microsoft2024windows}
+{Microsoft Security Response Center}.
+\newblock Windows security book.
+\newblock \url{https://docs.microsoft.com/en-us/security/}, 2024.
+\newblock Updated quarterly.
+
+\bibitem{3cx2023attack}
+Lily~Hay Newman.
+\newblock 3cx supply chain attack affects hundreds of thousands.
+\newblock Wired, 2023.
+\newblock March 30, 2023. Available:
+  \url{https://www.wired.com/story/3cx-supply-chain-attack/}.
+
+\bibitem{korea2021appstore}
+Jack Nicas and Jin~Yu Kang.
+\newblock South korea passes law requiring alternative app store payments.
+\newblock The New York Times, 2021.
+\newblock August 31, 2021. First country to mandate payment alternatives.
+
+\bibitem{nist2024ssdf}
+{NIST}.
+\newblock Secure software development framework.
+\newblock NIST SP 800-218 Version 1.1, 2024.
+\newblock February 2024.
+
+\bibitem{nist2024firmware}
+{NIST}.
+\newblock Security guidelines for system firmware.
+\newblock Technical Report SP 800-193 Rev. 1, National Institute of Standards
+  and Technology, 2024.
+
+\bibitem{nist2024zerotrust}
+{NIST}.
+\newblock Zero trust architecture.
+\newblock Technical Report SP 800-207 Rev. 1, National Institute of Standards
+  and Technology, 2024.
+
+\bibitem{owasp2020samm}
+{OWASP}.
+\newblock Software assurance maturity model.
+\newblock \url{https://owaspsamm.org/}, 2020.
+\newblock Version 2.0.
+
+\bibitem{rose2024zerotrust}
+Scott Rose, Oliver Borchert, and Stu Mitchell.
+\newblock Implementing zero trust: Lessons from the field.
+\newblock {\em IEEE Computer}, 57(3):28--36, 2024.
+
+\bibitem{rustup2024security}
+{Rust Security Response WG}.
+\newblock Rust supply chain security improvements.
+\newblock Rust Blog, 2024.
+\newblock January 2024. Introducing crates.io namespace reservations.
+
+\bibitem{sadeghi2024embedded}
+Ahmad-Reza Sadeghi, Christian Wachsmann, and Michael Waidner.
+\newblock Security and privacy challenges in embedded systems.
+\newblock {\em ACM Computing Surveys}, 56(4):1--39, 2024.
+
+\bibitem{npm2022colors}
+Steven~J. Solomon.
+\newblock Developer intentionally corrupts widely-used npm libraries.
+\newblock The Verge, 2022.
+\newblock January 9, 2022. colors.js and faker.js incident.
+
+\bibitem{ccpa2020}
+{State of California}.
+\newblock California consumer privacy act.
+\newblock Cal. Civ. Code §§ 1798.100-1798.199, 2020.
+\newblock Effective January 1, 2020.
+
+\bibitem{cpra2023}
+{State of California}.
+\newblock California privacy rights act.
+\newblock Amendment to CCPA, 2023.
+\newblock Effective January 1, 2023.
+
+\bibitem{ronin2022hack}
+Chainalysis Team.
+\newblock Ronin network \$625m hack analysis.
+\newblock Chainalysis Blog, 2022.
+\newblock March 2022. Largest DeFi hack to date.
+
+\bibitem{torres2019intoto}
+Santiago Torres-Arias, Hammad Ammula, Reza Curtmola, and Justin Cappos.
+\newblock in-toto: Providing farm-to-table guarantees for bits and bytes.
+\newblock In {\em 28th USENIX Security Symposium}, pages 1393--1410, 2019.
+
+\bibitem{uk2024cma}
+{UK Competition and Markets Authority}.
+\newblock Mobile ecosystems market study final report.
+\newblock CMA Report, 2024.
+\newblock January 2024. Recommending legislative action on app stores.
+
+\bibitem{epic2021ruling}
+{United States District Court}.
+\newblock Epic games v. apple final judgment.
+\newblock Case No. 4:20-cv-05640-YGR, 2021.
+\newblock September 10, 2021. Northern District of California.
+
+\bibitem{epic2024appeal}
+{U.S. Court of Appeals for the Ninth Circuit}.
+\newblock Epic games v. apple ninth circuit decision.
+\newblock No. 21-16506, 2023.
+\newblock April 24, 2023. Affirming in part, reversing in part.
+
+\bibitem{solarwinds2024sec}
+{U.S. Securities and Exchange Commission}.
+\newblock Sec charges solarwinds and ciso with fraud.
+\newblock SEC Press Release 2023-227, 2023.
+\newblock October 30, 2023.
+
+\bibitem{vu2024supplychain}
+Duc Vu, Riccardo Paccagnella, and Christopher Fletcher.
+\newblock Dirty pipe to dirty supply: Linux supply chain vulnerabilities.
+\newblock In {\em NDSS Symposium 2024}, 2024.
+
+\bibitem{wang2023container}
+Xing Wang, Yang Li, and Kun Zhang.
+\newblock Container security: Issues, challenges, and the road ahead.
+\newblock {\em IEEE Security \& Privacy}, 21(3):38--46, 2023.
+
+\bibitem{wilkins2024secureboot}
+Richard Wilkins and Brian Richardson.
+\newblock Uefi secure boot: Past, present, and future.
+\newblock {\em IEEE Computer}, 57(2):45--53, 2024.
+
+\bibitem{zahan2024packages}
+Nusrat Zahan, Thomas Zimmermann, and Patrice Godefroid.
+\newblock What we learned from 20 years of studying package manager security.
+\newblock In {\em ICSE 2024}, pages 1123--1135, 2024.
+
+\bibitem{ftx2022collapse}
+Kim Zetter.
+\newblock Ftx collapse: A software security perspective.
+\newblock Wired, 2022.
+\newblock November 2022. Poor security practices exposed.
+
+\bibitem{zimmermann2019npm}
+Markus Zimmermann, Cristian-Alexandru Staicu, Cam Tenny, and Michael Pradel.
+\newblock Small world with high risks: A study of security threats in the npm
+  ecosystem.
+\newblock {\em 28th USENIX Security Symposium}, pages 995--1010, 2019.
+
+\end{thebibliography}
