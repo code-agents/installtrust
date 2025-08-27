@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.17)  21 AUG 2025 20:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.17)  28 AUG 2025 05:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -921,77 +921,61 @@ es ad-mis-sion con-trollers pro-vide container-
 
 
 [6]
+Overfull \hbox (4.80911pt too wide) in paragraph at lines 276--277
+[]\T1/cmr/m/n/10.95 Where $\OMS/cmsy/m/n/10.95 V[] 2 \OT1/cmr/m/n/10.95 [10\OML
+/cmm/m/it/10.95 ; \OT1/cmr/m/n/10.95 15]$ \T1/cmr/m/n/10.95 rep-re-sents ver-i-
+fi-ca-tion bonuses and $\OML/cmm/m/it/10.95 t[]$ \T1/cmr/m/n/10.95 rep-re-sents
+ platform-
+ []
+
+
 
 [7]
 
 [8]
-Overfull \hbox (13.20512pt too wide) in paragraph at lines 402--416
+Overfull \hbox (13.20512pt too wide) in paragraph at lines 414--428
  [][] 
  []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
 [9]
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-
 [10]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
+Overfull \hbox (5.92905pt too wide) in paragraph at lines 645--645
+[]\T1/cmr/bx/n/10.95 Android's Paradigm Shift: The End of Anony-mous App Dis-tr
+i-bu-tion (Septem-
+ []
 
 
 
 [11]
-Overfull \hbox (32.5489pt too wide) in paragraph at lines 829--830
- [][] 
+Overfull \hbox (5.00006pt too wide) in paragraph at lines 682--683
+[]\T1/cmr/bx/n/10.95 Freedom Losses: \T1/cmr/m/n/10.95 Com-plete elim-i-na-tion
+ of anony-mous apps, chill-ing ef-fect on protest/privacy
  []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
 [12]
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Overfull \hbox (21.87914pt too wide) in paragraph at lines 954--955
+[13]
+Overfull \hbox (32.5489pt too wide) in paragraph at lines 892--893
  [][] 
  []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-
-[13]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
 [14]
-Overfull \hbox (39.54153pt too wide) in paragraph at lines 1124--1134
+Overfull \hbox (21.87914pt too wide) in paragraph at lines 1017--1018
  [][] 
  []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -999,20 +983,33 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 [15]
-Overfull \hbox (4.96382pt too wide) in paragraph at lines 1155--1156
-[]\T1/cmr/m/n/10.95 Rapid ecosys-tem changes re-quire con-tin-u-ous up-dates (q
-uar-terly re-cal-i-bra-tion rec-om-mended) 
- []
+
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
 [16]
 
 [17]
+Overfull \hbox (39.54153pt too wide) in paragraph at lines 1187--1197
+ [][] 
+ []
 
-[18] (./installtrust.bbl
+
+Overfull \hbox (4.96382pt too wide) in paragraph at lines 1218--1219
+[]\T1/cmr/m/n/10.95 Rapid ecosys-tem changes re-quire con-tin-u-ous up-dates (q
+uar-terly re-cal-i-bra-tion rec-om-mended) 
+ []
+
+
+
+[18]
 
 [19]
+
+[20] (./installtrust.bbl
+
+[21]
 Underfull \hbox (badness 1681) in paragraph at lines 135--140
 \T1/cmr/m/n/10.95 2024.  March 29, 2024. Avail-able: [][]$\T1/cmtt/m/n/10.95 ht
 tps : / / arstechnica . com / security / 2024 / 03 /
@@ -1025,38 +1022,36 @@ eaks-[]encrypted-[]ssh-[]connections/$[][]\T1/cmr/m/n/10.95 .
  []
 
 
-
-[20]
-Underfull \hbox (badness 10000) in paragraph at lines 159--164
+Underfull \hbox (badness 10000) in paragraph at lines 163--168
 []\T1/cmr/m/n/10.95 Andy Green-berg.  Last-pass breach: Hack-ers stole pass-wor
 d vault data.
  []
 
 
-Underfull \hbox (badness 4048) in paragraph at lines 159--164
+Underfull \hbox (badness 4048) in paragraph at lines 163--168
 \T1/cmr/m/n/10.95 Wired, 2022.  De-cem-ber 22, 2022. Avail-able: [][]$\T1/cmtt/
 m/n/10.95 https : / / www . wired . com / story /
  []
 
 
 
-[21]
+[22]
 
-[22])
+[23])
 
-[23] (./installtrust.aux)
+[24] (./installtrust.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `installtrust.out' has not changed.
-(rerunfilecheck)             Checksum: B9292FB3E2AE45CADE9CDEE491A70A7C;17146.
+(rerunfilecheck)             Checksum: 9EA51DBDCAC8F5E639F76A986F21D162;17248.
  ) 
 Here is how much of TeX's memory you used:
- 26625 strings out of 474662
- 518765 string characters out of 5751109
- 962322 words of memory out of 5000000
- 49007 multiletter control sequences out of 15000+600000
+ 26633 strings out of 474662
+ 518897 string characters out of 5751109
+ 946359 words of memory out of 5000000
+ 49008 multiletter control sequences out of 15000+600000
  578161 words of font info for 79 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  84i,9n,87p,1359b,751s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1087,10 +1082,10 @@ type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025basic/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2025basic/texmf-dist/f
 onts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025basic/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on installtrust.pdf (23 pages, 351508 bytes).
+Output written on installtrust.pdf (24 pages, 357441 bytes).
 PDF statistics:
- 1506 PDF objects out of 1728 (max. 8388607)
- 827 compressed objects within 9 object streams
- 222 named destinations out of 1000 (max. 500000)
- 669 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1519 PDF objects out of 1728 (max. 8388607)
+ 838 compressed objects within 9 object streams
+ 229 named destinations out of 1000 (max. 500000)
+ 661 words of extra memory for PDF output out of 10000 (max. 10000000)
 

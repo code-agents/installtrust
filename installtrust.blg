@@ -3,44 +3,47 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: installtrust.aux
 The style file: plain.bst
 Database file #1: expanded-references.bib
-You've used 60 entries,
+Warning--entry type for "google2025android" isn't style-file defined
+--line 2 of file expanded-references.bib
+You've used 61 entries,
             2118 wiz_defined-function locations,
-            792 strings with 12572 characters,
-and the built_in function-call counts, 16831 in all, are:
-= -- 1704
-> -- 660
+            794 strings with 12640 characters,
+and the built_in function-call counts, 17024 in all, are:
+= -- 1720
+> -- 667
 < -- 11
-+ -- 271
-- -- 208
-* -- 804
-:= -- 2769
-add.period$ -- 219
-call.type$ -- 60
-change.case$ -- 288
++ -- 274
+- -- 210
+* -- 809
+:= -- 2800
+add.period$ -- 221
+call.type$ -- 61
+change.case$ -- 292
 chr.to.int$ -- 0
-cite$ -- 60
-duplicate$ -- 621
-empty$ -- 1487
-format.name$ -- 208
-if$ -- 3665
+cite$ -- 61
+duplicate$ -- 628
+empty$ -- 1509
+format.name$ -- 210
+if$ -- 3707
 int.to.chr$ -- 0
-int.to.str$ -- 60
+int.to.str$ -- 61
 missing$ -- 18
-newline$ -- 341
-num.names$ -- 120
-pop$ -- 438
+newline$ -- 345
+num.names$ -- 122
+pop$ -- 446
 preamble$ -- 1
-purify$ -- 224
+purify$ -- 227
 quote$ -- 0
-skip$ -- 504
+skip$ -- 514
 stack$ -- 0
-substring$ -- 758
-swap$ -- 157
+substring$ -- 763
+swap$ -- 158
 text.length$ -- 11
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 240
+type$ -- 244
 warning$ -- 0
-while$ -- 161
-width$ -- 62
-write$ -- 701
+while$ -- 163
+width$ -- 63
+write$ -- 708
+(There was 1 warning)
